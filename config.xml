@@ -10,7 +10,7 @@
 
         <preference name="phonegap-version" value="3.7.0" />
 
-        <name>GeoApp</name>
+        <name>BarCodeApp</name>
 
         <description>
         	Aplicación de la Codigo de barras
